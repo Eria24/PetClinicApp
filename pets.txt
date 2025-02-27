@@ -1,0 +1,3 @@
+Kiko|Bunny|3|Skin infection|A little aggresive
+Mia|Dog|4|Broken bone|Surgery
+Neko|Cat|1|Checkup|Allergic to peanut
